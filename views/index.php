@@ -51,7 +51,7 @@
                         <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="../assets/img/inicio/IST_BIENVENIDA 1.png" class="d-block w-100" style="border-radius: 8px;" alt="...">
+                                    <img src="" class="d-block w-100" style="border-radius: 8px;" alt="...">
                                 </div>
                                 <div class="carousel-item">
                                     <a class="text-decoration-none link-dark stretched-link" href="contactenos.php">
