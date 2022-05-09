@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8" />
@@ -15,8 +15,6 @@
     <link rel="stylesheet" href="../assets/css/estiloredes.css">
 
     <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
-    <!-- Bootstrap icons-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="../assets/css/styles.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap" rel="stylesheet">
@@ -39,7 +37,7 @@
                     <div class="col-lg-6 col-xl-6 col-xxl-6">
                         <div class="my-4 text-center text-xl-start">
                             <h4 class="display-5 fw-bolder text-white mb-2">¡Nos Actualizamos!</h4>
-                            <p class="lead fw-normal text-white-50 mb-4">Hémos actualizado nuestra página web para mejorar la versatilidad y manejo en los dispositivos móviles y de escritorio.</p>
+                            <p class="lead fw-normal text-white-50 mb-4">Hemos actualizado nuestra página web para mejorar la versatilidad y manejo en los dispositivos móviles y de escritorio.</p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-xxl-6 d-none d-xl-block text-center" style="z-index: 0;">
@@ -137,7 +135,6 @@
                         </div>
                     </div>
                     <div class="col-lg-6 mb-6">
-                        <br>
                         <div class="card h-100 shadow border-3">
                             <img class="card-img-top" src="../assets/img/inicio/SELECCION DE PERSONAL.jpg" alt="..." width="50%"/>
                             <div class="card-body p-4">
@@ -163,7 +160,6 @@
                         </div>
                     </div>
                     <div class="col-lg-6 mb-6">
-                        <br>
                         <div class="card h-100 shadow border-3">
                             <img class="card-img-top" src="../assets/img/inicio/IST_SG-SST.png" width="50%" />
                             <div class="card-body p-4">

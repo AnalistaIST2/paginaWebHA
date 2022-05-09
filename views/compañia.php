@@ -54,7 +54,7 @@
         </header>
         <!-- About section one-->
         <section class="py-3 bg-light" id="scroll-target">
-            <div class="container px-5 my-5">
+            <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                     <div class="col-lg-6">
@@ -66,7 +66,7 @@
         </section>
         <!-- About section two-->
         <section class="py-3">
-            <div class="container px-5 my-5">
+            <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                     <div class="col-lg-6">
@@ -78,7 +78,7 @@
         </section>
         <!-- About section one-->
         <section class="py-3 bg-light" id="scroll-target">
-            <div class="container px-5 my-5">
+            <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                     <div class="col-lg-6">
@@ -97,7 +97,7 @@
         </section>
         <!-- About section two-->
         <section class="py-3">
-            <div class="container px-5 my-5">
+            <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                     <div class="col-lg-6">
@@ -109,7 +109,7 @@
         </section>
         <!-- About section one-->
         <section class="py-2 bg-light" id="scroll-target">
-            <div class="container px-5 my-5">
+            <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                     <div class="col-lg-6">
@@ -120,7 +120,7 @@
             </div>
         </section>
         <section class="py-3 bg-light" id="scroll-target">
-            <div class="container px-5 my-5">
+            <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-6">
                         <h2 class="fw-bolder">Política del Sistema de Gestión de Calidad</h2>
