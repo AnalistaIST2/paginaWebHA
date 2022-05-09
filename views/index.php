@@ -32,7 +32,6 @@
     <?php
         include 'redes.php';
         include 'navbar.php';
-        
         ?>
         <header class="bg-dark">
             <div class="container px-6">
