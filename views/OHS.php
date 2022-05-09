@@ -27,7 +27,7 @@
         ?>
         <section style="position: fixed; z-index:100;">
             <ul class="nav nav-tabs">
-                <li class="nav-item dropdown" style="background:rgba(223,81,0,0.6); border-radius:8px;">
+                <li class="nav-item dropdown" style="background:rgba(223,81,0,0.6); border-radius:1px;">
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color: #fff;">Navegar</a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="#inicio">Inicio</a></li>
@@ -95,10 +95,10 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <li class="fs-6 mb-4"> Medición, Evaluación, Intervención</li>
-                                    <li class="fs-6 mb-4"> Programa de Vigilancia Epidemiológica en Riesgo Psicosocial</li>
-                                    <li class="fs-6 mb-4"> Protocolo de calificación de Origen de Enfermedades Derivadas del Estrés</li>
-                                    <li class="fs-6 mb-4"> Medición de Burnout</li>
+                                    <li class="fs-6 mb-4">Medición, Evaluación, Intervención.</li>
+                                    <li class="fs-6 mb-4">Programa de Vigilancia Epidemiológica en Riesgo Psicosocial.</li>
+                                    <li class="fs-6 mb-4">Protocolo de calificación de Origen de Enfermedades Derivadas del Estrés.</li>
+                                    <li class="fs-6 mb-4">Medición de Burnout.</li>
                                 </ul>
                             </section>
                         </article>
@@ -130,7 +130,7 @@
                             <section class="mb-5">
                                 <ul>
                                     <p class="fs-6 mb-4"> Conjunto de estrategias que las empresas deben implementar en la prevención y control de los accidentes de trabajo y las enfermedades de origen profesional, teniendo en cuenta lo contemplado en la legislación Colombiana en materia de seguridad y salud en el trabajo, teniendo como objetivos:</p>
-                                    <li class="fs-6 mb-4"> Brindar los lineamientos básicos para el desarrollo del Sistema de Gestión de Seguridad y Salud en el Trabajo..</li>
+                                    <li class="fs-6 mb-4"> Brindar los lineamientos básicos para el desarrollo del Sistema de Gestión de Seguridad y Salud en el Trabajo.</li>
                                     <li class="fs-6 mb-4"> Brindar capacitación básica para la conformación de los grupos de trabajo en materia de Seguridad y Salud en el Trabajo (Brigadas, Copasst, Comité de Convivencia).</li>
                                 </ul>
                             </section>
@@ -158,7 +158,7 @@
                                 <ul>
                                     <li class="fs-6 mb-4">Asesoría en el diseño e implementación de un sistema integrado de gestión por competencias acorde con las necesidades propias de la organización.
                                     <li class="fs-6 mb-4">Revisión y estandarización de competencias.
-                                    <li class="fs-6 mb-4">Definir las competencias cardinales y especificas por niveles de cargo sobre las cuales se estructura el Sistema Integrado de Gestión por Competencias.
+                                    <li class="fs-6 mb-4">Definir las competencias cardinales y específicas por niveles de cargo sobre las cuales se estructura el Sistema Integrado de Gestión por Competencias.
                                     <li class="fs-6 mb-4">Estructuración de perfiles de cargos por competencias.
                                 </ul>
                             </section>
@@ -191,10 +191,9 @@
                             <section class="mb-5">
                                 <ul>
                                     <li class="fs-6 mb-4">Asesoría en el diseño e implementación de un sistema integrado de gestión por competencias acorde con las necesidades propias de la organización.</li>
-                                    <li class="fs-6 mb-4"> Plan básico legal</li>
-                                    <li class="fs-6 mb-4"> Sistemas de gestión de control del riesgo</li>
-                                    <li class="fs-6 mb-4"> Capacitación y entrenamiento</li>
-                                    <li class="fs-6 mb-4"> Evaluación y auditoría</li>
+                                    <li class="fs-6 mb-4">Sistemas de gestión de control del riesgo.</li>
+                                    <li class="fs-6 mb-4">Capacitación y entrenamiento.</li>
+                                    <li class="fs-6 mb-4">Evaluación y auditoría.</li>
 
                                 </ul>
                             </section>
@@ -219,8 +218,8 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">Brindamos asesorí­a técnica y legal para el establecimiento de medidas de prevención del acoso laboral y cumplimiento de requisitos legales. Asesoría para el análisis de casos reportados como presuntas situaciones de acoso laboral. Programas de formación para comités de convivencia en temas relacionados con negociación y resolución de conflictos, comunicación asertiva, reuniones efectivas. etc.</p>
-                                    <li class="fs-6 mb-4">Plan básico legal</li>
+                                    <p class="fs-6 mb-4">Brindamos asesorí­a técnica y legal para el establecimiento de medidas de prevención del acoso laboral y cumplimiento de requisitos legales. Asesoría para el análisis de casos reportados como presuntas situaciones de acoso laboral. Programas de formación para comités de convivencia en temas relacionados con negociación y resolución de conflictos, comunicación asertiva, reuniones efectivas, etc.</p>
+                                    <li class="fs-6 mb-4">Plan básico legal.</li>
                                     <li class="fs-6 mb-4">Infundir miedo, intimidación, terror y angustia.</li>
                                 </ul>
                             </section>
@@ -250,10 +249,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">Brindamos asesorí­a técnica y legal para el establecimiento de medidas de prevención del acoso laboral y cumplimiento de requisitos legales. Asesoría para el análisis de casos reportados como presuntas situaciones de acoso laboral. Programas de formación para comités de convivencia en temas relacionados con negociación y resolución de conflictos, comunicación asertiva, reuniones efectivas. etc.</p>
-                                    <li class="fs-6 mb-4">Plan básico legal</li>
-                                    <li class="fs-6 mb-4">Infundir miedo, intimidación, terror y angustia.</li>
-                                    <li class="fs-6 mb-4">Causar perjuicio laboral.</li>
+                                    <li class="fs-6 mb-4">El clima organizacional refleja la interacción entre características personales y organizacionales y surge de las percepciones o interpretación que los trabajadores hacen de las estructuras y procesos que se desarrollan en el entorno laboral; brindamos asesoría para el diseño e implementación de una metodología para la valoración del clima laboral de acuerdo con las necesidades y posibilidades de la empresa.</li>
                                 </ul>
                             </section>
                         </article>
@@ -279,7 +275,8 @@
                                 <ul>
                                     <p class="fs-6 mb-4">Los accidentes de trabajo y las enfermedades de origen laboral de cualquier índole tienen diferentes causas, sin embargo, un análisis detallado de ellos, cualquiera que sea su contexto , suele llevar conclusiones relacionadas con el comportamiento humano.
                                         <br>
-                                        Brindamos una asesoría integral para el fomento de una cultura de prevención y seguridad basada en el establecimiento de un Programa de Seguridad Basada en el Comportamiento en donde mediante la modificación de los valores, actitudes, competencias y modos de comportamiento, tanto individuales como grupales, se fortalece la gestión de la seguridad en la organización y los comportamientos riesgosos se transforman en hábitos seguros de trabajo
+                                        Brindamos una asesoría integral para el fomento de una cultura de prevención y seguridad basada en el Comportamiento en donde mediante la modificación de los valores, actitudes, competencias y modos de comportamiento, tanto individuales como grupales, se fortalece la gestión de la seguridad en la organización y los comportamientos riesgosos se transforman en hábitos seguros de trabajo.
+                                    </p>
                                 </ul>
                             </section>
                         </article>
@@ -338,7 +335,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">La Vigilancia epidemiológica supone una herramienta importante a nivel empresarial, dado que no solo permite la recolección de datos, su análisis y evaluación; si no que a su vez, permite una toma de decisión al momento de ejecutar los diversos programas de prevención y tratamiento de enfermedades en la población. H& A CONSULTING LTDA. Orienta a las diversas empresas sobre las estrategias básicas que deben implementar para la identificación e intervención de los factores de riesgo enmarcados en un Sistema de Vigilancia Epidemiológica y que puedan afectar la salud y el desempeño de sus trabajadores, teniendo en cuenta lo contemplado en la legislación actual vigente.
+                                    <p class="fs-6 mb-4">La Vigilancia epidemiológica supone una herramienta importante a nivel empresarial, dado que no solo permite la recolección de datos, su análisis y evaluación; si no que a su vez, permite una toma de decisión al momento de ejecutar los diversos programas de prevención y tratamiento de enfermedades en la población. H&A CONSULTING LTDA. Orienta a las diversas empresas sobre las estrategias básicas que deben implementar para la identificación e intervención de los factores de riesgo enmarcados en un Sistema de Vigilancia Epidemiológica y que puedan afectar la salud y el desempeño de sus trabajadores, teniendo en cuenta lo contemplado en la legislación actual vigente.
                                 </ul>
                             </section>
                         </article>
@@ -395,7 +392,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4"> La Formación y Desarrollo del personal de una empresa es el pilar fundamental en que se fundamenta el éxito de una organización, por ello en H&A CONSULTING LTDA., encontrara la asesoría para la creación de sus programas de formación, capacitación y entrenamiento, de acuerdo con sus necesidades, proyectando a su equipo de trabajo con éxito, haciéndolos más eficaces y eficientes en sus roles y con herramientas que le permitan desarrollarse dentro y fuera de la organización como profesionales y seres competitivos.
+                                    <p class="fs-6 mb-4"> La Formación y Desarrollo del personal de una empresa es el pilar fundamental en que se fundamenta el éxito de una organización, por ello en H&A CONSULTING LTDA., encontrará la asesoría para la creación de sus programas de formación, capacitación y entrenamiento, de acuerdo con sus necesidades, proyectando a su equipo de trabajo con éxito, haciendolos más eficaces en sus roles y con herramientas que le permitan desarrollarse dentro y fuera de la organización como profesionales y seres competitivos.
                                         <br> Deje en nuestras manos sus necesidades de formación y nosotros les garantizamos los mejores resultados.
                                     </p>
                                 </ul>

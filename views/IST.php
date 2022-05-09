@@ -28,7 +28,7 @@
         ?>
         <section style="position: fixed; z-index:100;">
             <ul class="nav nav-tabs">
-                <li class="nav-item dropdown" style="background:rgba(0,68,148,0.6); border-radius:8px;">
+                <li class="nav-item dropdown" style="background:rgba(0,68,148,0.6); border-radius:1px;">
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color: #fff;">Navegar</a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="#inicio">Inicio</a></li>
@@ -89,12 +89,12 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4"> Trabajamos a la vanguardia en soluciones integrales para la creación de nuevas tecnologías, solucionando las necesidades de Software de su Compañía. Desarrollando utilidades según la metodologías de organización para optimizar procesos de su Compañía y de esta forma comprometiéndonos con el futuro de la Infraestructura de su Organización.
-                                        <li class="fs-6 mb-4">Diseño e Infraestructura
-                                            <p>Con personal idóneo en diseños de últimas tendencias para aplicativos corporativos.</p>
+                                    <p class="fs-6 mb-4"> Trabajamos a la vanguardia en soluciones integrales para la creación de nuevas tecnologías, solucionando las necesidades de Software de su Compañía. Desarrollando utilidades según las metodologías de organización para optimizar procesos de su Compañía y de esta forma comprometiéndonos con el futuro de la Infraestructura de su Organización.
+                                        <li class="fs-6 mb-4">Diseño e Infraestructura:
+                                            <p>- Con personal idóneo en diseños de últimas tendencias para aplicativos corporativos.</p>
                                         </li>
-                                        <li class="fs-6 mb-4">Creación Estructural
-                                            <p>Desarrolladores capaces de crear nuevas tecnologías para su Organización.</p>
+                                        <li class="fs-6 mb-4">Creación Estructural:
+                                            <p>- Desarrolladores capaces de crear nuevas tecnologías para su Organización.</p>
                                         </li>
                                         
                                 </ul>
@@ -121,8 +121,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">Sustentando las nuevas tendencias tecnológicas podemos deducir que dentro de los inventos mas importantes a hoy son las Apps. Las cuales son aplicación de software que se instala en dispositivos móviles o Tablets para ayudar al usuario en una labor concreta, ya sea de carácter profesional, de ocio, entretenimiento o soluciones Corporativas</li>
-                                        
+                                    <p class="fs-6 mb-4">Sustentando las nuevas tendencias tecnológicas podemos deducir que dentro de los inventos más importantes a hoy son las aplicaciones. Las cuales son aplicación de software que se instala en dispositivos móviles o Tablets para ayudar al usuario en una labor concreta, ya sea de carácter profesional, de ocio, entretenimiento o soluciones Corporativas</li>
                                 </ul>
                             </section>
                         </article>
@@ -154,7 +153,7 @@
                             <section class="mb-5">
                                 <ul>
                                     <p class="fs-6 mb-4">Diseñamos páginas web de acuerdo a la personalidad de su empresa, sus necesidades y su imagen corporativa, explotando al máximo la capacidades que ofrece la tecnología en el mundo contemporáneo del internet, para sus beneficios y el nuestro propio.
-                                    <p class="fs-6 mb-4"> En H&A CONSULTING LTDA., propone un equilibrio entre diseño y funcionalidad, elaborando sitios agradables, funcionales, fáciles y rápidos de navegar bajo lenguaje HTML5, PHP, AJAX, MYSQL y JAVASCRIPT implementando los diseños adaptables a los dispositivos móviles como se hace llamar: Responsive.
+                                    <p class="fs-6 mb-4">H&A CONSULTING LTDA., propone un equilibrio entre diseño y funcionalidad, elaborando sitios agradables, funcionales, fáciles y rápidos de navegar bajo lenguaje de estructura HTML5, lenguaje de diseño CSS3 y lenguajes de programación como: PHP y JavaScript, usando gestores de bases de datos como: MYSQL; implementando los diseños adaptativos a cada dispositivo móvil.
                                     
                                 </ul>
                             </section>
@@ -181,9 +180,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">Tenemos las herramientas tecnológicas para el envío de Mailing a todos sus clientes de una manera masiva, segura y eficaz. Diseñamos en nuestra vertical H2O, piezas innovadores y originales con la información necesario para ser enviados como tácticas de apoyo de tus campañas publicitarias, externas o internas.. Implementamos sistemas que generan informes precisos en tiempo real y estadísticas de tráfico de envío y revisión de e-mail, dándole a conocer su potencial nicho de mercado.</li>
-                                        <li class="fs-6 mb-4">Ampliar sus bases de datos de clientes con este servicio, para incrementar las ventas en su empresa...</li>
-                                        
+                                    <li class="fs-6 mb-4">Tenemos las herramientas tecnológicas para el envío de Mailing a todos sus clientes de una manera masiva, segura y eficaz. Diseñamos en nuestra vertical H2O, piezas innovadoras y originales con la información necesaria para ser enviados como tácticas de apoyo de tus campañas publicitarias, externas o internas. Implementamos sistemas que generan informes precisos en tiempo real y estadísticas de tráfico de envío y revisión de e-mail, dándole a conocer su potencial nicho de mercado.</li>
                                 </ul>
                             </section>
                         </article>

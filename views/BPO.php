@@ -18,17 +18,17 @@
 </head>
 
 <body class="d-flex flex-column h-100" style="text-align: justify;">
-    <?php 
+    <?php
     include 'redes.php';
     ?>
     <main class="flex-shrink-0">
         <!-- Navigation-->
-        <?php 
+        <?php
         include 'navbar.php';
         ?>
         <section style="position: fixed; z-index:100;">
             <ul class="nav nav-tabs">
-                <li class="nav-item dropdown" style="background:rgba(0,129,199,0.6); border-radius:8px;">
+                <li class="nav-item dropdown" style="background:rgba(0,129,199,0.6); border-radius:1px;">
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color: #fff;">Navegar</a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="#inicio">Inicio</a></li>
@@ -60,18 +60,19 @@
                                 <div class="p-4 p-md-5">
                                     <center><img src="../assets/img/BPO.png" width="20%">
                                         <div class="h1 fw-bolder">Business Process Outsourcing</div>
-                                        </center>
-                                    </div>
+                                    </center>
+                                </div>
                             </div>
                             <div class="col-lg-6 col-xl-7">
-                                <img  src="../assets/img/verticales/bpo/IMAGEN_PRINCIPAL.png" class="bg-featured-blog"></div>
+                                <img src="../assets/img/verticales/bpo/IMAGEN_PRINCIPAL.png" class="bg-featured-blog">
                             </div>
-                            
-                            </div>
-
                         </div>
+
                     </div>
+
                 </div>
+            </div>
+            </div>
             </div>
         </section>
 
@@ -80,7 +81,7 @@
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="adminpersonalNomina">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/ADMINISTRACION_PERSONAL_Y_NOMINA.png" width="110%"/>
+                        <img src="../assets/img/verticales/bpo/ADMINISTRACION_PERSONAL_Y_NOMINA.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -108,7 +109,7 @@
             </div>
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="seleccionPersonal">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -123,7 +124,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <li class="fs-6 mb-4">El personal seleccionado será¡ clave en el crecimiento y fortalecimiento de la organización, respaldando los objetivos a corto, mediano y largo plazo, son potencialmente idóneos para desempeñar funciones asignadas dentro de los parámetros de eficiencia y eficacia, perfiles altamente seleccionados, profesionales formados con valores y calidad humana, evitando el í­ndice de rotación de personal.</li>
+                                    <li class="fs-6 mb-4">El personal seleccionado será clave en el crecimiento y fortalecimiento de la organización, respaldando los objetivos a corto, mediano y largo plazo, son potencialmente idóneos para desempeñar funciones asignadas dentro de los parámetros de eficiencia y eficacia, perfiles altamente seleccionados, profesionales formados con valores y calidad humana, evitando el í­ndice de rotación de personal.</li>
                                     <li class="fs-6 mb-4">Evaluamos profesionales desde el aspecto personal y profesional, que se permitan trascender dentro de nuestras empresas cliente, disminuyendo el í­ndice de rotación de personal, trabajando de manera conjunta por los objetivos trazados en pro del crecimiento y fortalecimiento empresarial.</li>
                                 </ul>
                             </section>
@@ -132,14 +133,14 @@
 
                     </div>
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/bpo/SELECCION_PERSONAL.png" width="110%" style="margin-top: 12%;"/>
+                        <img src="../assets/img/verticales/bpo/SELECCION_PERSONAL.png" width="110%" style="margin-top: 12%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-4 shadow-lg p-3 mb-5 bg-body rounded" id="reclutamientoPreliminar">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/bpo/RECLUTAMIENTO_PRELIMINAR.png" width="110%"/>
+                        <img src="../assets/img/verticales/bpo/RECLUTAMIENTO_PRELIMINAR.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -166,7 +167,7 @@
             </div>
             <div class="container px-5 my-4 shadow-lg p-3 mb-5 bg-body rounded" id="entrevistaPreseleccion">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -187,14 +188,14 @@
                         </article>
                     </div>
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/bpo/ENTREVISTA_DE_PRESELECCION.png" width="110%"/>
+                        <img src="../assets/img/verticales/bpo/ENTREVISTA_DE_PRESELECCION.png" width="110%" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-4 shadow-lg p-3 mb-5 bg-body rounded" id="pruebasPsicologicas">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/bpo/APLICACION_DE_PRUEBAS_PSICOLOGICAS.png" width="110%"/>
+                        <img src="../assets/img/verticales/bpo/APLICACION_DE_PRUEBAS_PSICOLOGICAS.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -210,8 +211,8 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <li class="fs-6 mb-4">Prueba de personalidad: Tiene como objetivo determinar rasgos y patrones de personalidad permanentes y situacionales de cada uno de los candidatos y su relación e incidencia en la labor a desempeñar.</li>
-                                    <li class="fs-6 mb-4">Pruebas Psicotécnicas: Con estas pruebas se determina el nivel de desarrollo de una habilidad con respecto a un grupo normativo de referencia y permite predecir la funcionalidad de ésta en el desempeño del cargo.</li>
+                                    <li class="fs-6 mb-4">Prueba de personalidad: tiene como objetivo determinar rasgos y patrones de personalidad permanentes y situacionales de cada uno de los candidatos y su relación e incidencia en la labor a desempeñar.</li>
+                                    <li class="fs-6 mb-4">Pruebas Psicotécnicas: con estas pruebas se determina el nivel de desarrollo de una habilidad con respecto a un grupo normativo de referencia y permite predecir la funcionalidad de ésta en el desempeño del cargo.</li>
                                 </ul>
                             </section>
                         </article>
@@ -220,7 +221,7 @@
             </div>
             <div class="container px-5 my-4 shadow-lg p-3 mb-5 bg-body rounded" id="entrevistaSeleccion">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -236,23 +237,22 @@
                             <section class="mb-5">
                                 <ul>
                                     <p>Tomando como base el modelo de selección escogido por ustedes, nuestros procesos están direccionados a identificar el grado de desarrollo de las competencias requeridas para el cargo, a partir de indicadores de comportamiento observables y medibles que resulten exitosos para la gestión.</p>
-                                    <p>Nuestros procesos de entrevista, se basan en los siguientes modelos:
-                                        <li class="fs-6 mb-4">Selección por Competencias
-                                        <li class="fs-6 mb-4">Modelo de Selección STAR
-
+                                    <p>Nuestros procesos de entrevista, se basan en los siguientes modelos:</p>
+                                    <li class="fs-6 mb-4">Selección por Competencias.</li>
+                                    <li class="fs-6 mb-4">Modelo de Selección STAR.</li>
                                 </ul>
                             </section>
                         </article>
                     </div>
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/bpo/ENTREVISTA_DE_SELECCION.png" width="110%" style="margin-top: 12%;"/>
+                        <img src="../assets/img/verticales/bpo/ENTREVISTA_DE_SELECCION.png" width="110%" style="margin-top: 12%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="centre">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/bpo/ASSESSMENT_CENTRE.png" width="110%"/>
+                        <img src="../assets/img/verticales/bpo/ASSESSMENT_CENTRE.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -279,7 +279,7 @@
             </div>
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="referenciacion">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -302,14 +302,14 @@
 
                     </div>
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/bpo/REFERENCIACION.png" width="110%"/>
+                        <img src="../assets/img/verticales/bpo/REFERENCIACION.png" width="110%" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="visitaDomiciliaria">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/bpo/VISITA_DOMICILIARIA.png" width="110%" style="margin-top: 5%;"/>
+                        <img src="../assets/img/verticales/bpo/VISITA_DOMICILIARIA.png" width="110%" style="margin-top: 5%;" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -320,16 +320,16 @@
                                 <h2 class="fw-bolder mb-1">Visita Domiciliaria</h2>
                                 <!-- Post meta content-->
                                 <div class="text-muted fst-italic mb-2">Indispensable para tu empresa</div>
-                                
+
                                 <!-- Post categories-->
                             </header>
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
                                     <p class="fs-6 mb-4">Teniendo en cuenta que un equilibrio en la vida familiar y personal, garantiza el Éxito en el desempeño laboral del candidato, H&A CONSULTING LTDA., analiza los siguientes factores:
-                                    <li class="fs-6 mb-4">Entorno Domiciliario</li>
-                                <li class="fs-6 mb-4">Conformación Familiar Detallada</li>
-                                <li class="fs-6 mb-4">Aspecto Social y Salubridad</li>
+                                        <li class="fs-6 mb-4">Entorno Domiciliario.</li>
+                                        <li class="fs-6 mb-4">Conformación Familiar Detallada.</li>
+                                        <li class="fs-6 mb-4">Aspecto Social y Salubridad.</li>
                                 </ul>
                             </section>
                         </article>
@@ -338,10 +338,10 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="propiedadHorizontal">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -356,8 +356,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">Te invitamos a garantizar tus zonas comunes para que no sean amenas para tus residentes y trabajadores, evitando ocurrencia de hechos indeseados y adoptar la seguridad como cultura organizacional
-                                    </p>
+                                    <p class="fs-6 mb-4">Te invitamos a garantizar tus zonas comunes para que no sean amenas para tus residentes y trabajadores, evitando ocurrencia de hechos indeseados y adoptar la seguridad como cultura organizacional.</p>
                                 </ul>
                             </section>
                         </article>
@@ -365,14 +364,14 @@
 
                     </div>
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/bpo/PROPIEDAD_HORIZONTAL.png" width="110%"/>
+                        <img src="../assets/img/verticales/bpo/PROPIEDAD_HORIZONTAL.png" width="110%" />
                     </div>
                 </div>
             </div>
         </section>
     </main>
     <!-- Footer-->
-    <?php 
+    <?php
     include 'footer.php'
     ?>
     <!-- Bootstrap core JS-->

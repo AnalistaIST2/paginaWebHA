@@ -24,7 +24,7 @@
         ?>
         <section style="position: fixed; z-index:100;">
             <ul class="nav nav-tabs">
-                <li class="nav-item dropdown" style="background:rgba(0,0,0,0.85); border-radius:8px;">
+                <li class="nav-item dropdown" style="background:rgba(0,0,0,0.85); border-radius:1px;">
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color: #fff;">Externos</a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" style="background:rgba(229,53,23,0.8); color:#fff" href="#inicio">PQR</a></li>
@@ -44,8 +44,8 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-xxl-12">
                         <div class="text-center my-5">
-                            <h2 class="fw-bolder mb-3">¿Quienes Somos?</h2>
-                            <p class="lead fw-normal text-muted mb-6" style="text-align: justify;">Somos una organización dirigida a empresas modernas. Brindamos soluciones integrales a sus requerimientos y, respuestas oportunas y eficaces para cada necesidad de su entorno empresarial. Contamos con un amplio portafolio de servicios para diversas áreas funcionales de su empresa.</p>
+                            <h2 class="fw-bolder mb-3">¿Quiénes Somos?</h2>
+                            <p class="lead fw-normal text-muted mb-6" style="text-align: justify;">Somos una organización dirigida a empresas modernas. Brindamos soluciones integrales a sus requerimientos y respuestas oportunas para que sean eficaces en cada necesidad de su entorno empresarial. Contamos con un amplio portafolio de servicios para diversas áreas funcionales de su empresa.</p>
                             <a class="btn btn-primary btn-lg" href="https://www.haconsultingeu.com/pagina/videos/Nosotros.mp4" target="_blank">Ver Video</a>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                     <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                     <div class="col-lg-6">
                         <h2 class="fw-bolder">Misión</h2>
-                        <p class="lead fw-normal text-muted mb-0">Lograr la satisfacción integral de nuestros clientes con los productos o servicios de la empresa</p>
+                        <p class="lead fw-normal text-muted mb-0">Lograr la satisfacción integral de nuestros clientes con los productos o servicios de la empresa.</p>
                     </div>
                 </div>
             </div>
@@ -84,13 +84,13 @@
                     <div class="col-lg-6">
                         <h2 class="fw-bolder">Valores Corporativos</h2>
                         <p class="lead fw-normal text-muted mb-0"><strong>Enfoque al Cliente:</strong></p>
-                        <p class="lead fw-normal text-muted mb-1">Comprendemos las necesidades actuales y furutas de nuestros clientes, y satisfacemos nuestros requisitos, forzandonos siempre para cumplir sus expectativas</p>
+                        <p class="lead fw-normal text-muted mb-1">- Comprendemos las necesidades actuales y futuras de nuestros clientes, y satisfacemos sus requisitos, esforzándonos siempre para cumplir sus expectativas.</p>
                         <p class="lead fw-normal text-muted mb-0"><strong>Participación del Personal:</strong></p>
-                        <p class="lead fw-normal text-muted mb-1">Involucramos a todo nuestro personal, con sus aportes en la consecución de la mejora continua y el logro de nuestros objetivos</p>
+                        <p class="lead fw-normal text-muted mb-1">- Involucramos a todo nuestro personal, con sus aportes, en la consecución de la Mejora Continua y el logro de nuestros objetivos.</p>
                         <p class="lead fw-normal text-muted mb-0"><strong>Relación con Proveedores:</strong></p>
-                        <p class="lead fw-normal text-muted mb-1">Mantenemos con nuestros proveedores, como aliados estratégicos en una relación interdependiente y mutuamente beneficiosa</p>
+                        <p class="lead fw-normal text-muted mb-1">- Mantenemos con nuestros proveedores: como aliados estratégicos en una relación interdependiente y mutuamente beneficiosa.</p>
                         <p class="lead fw-normal text-muted mb-0"><strong>Actitud de Servicio:</strong></p>
-                        <p class="lead fw-normal text-muted mb-1">Mantenemos una inteacción social, cálida, ágil y asertiva con nuestros clientes internos y externos para fortalecer y afianzar los lazos comerciales y laborales que nos únen</p>
+                        <p class="lead fw-normal text-muted mb-1">- Mantenemos una interacción social cálida, ágil y asertiva con nuestros clientes internos y externos para fortalecer y afianzar los lazos comerciales y laborales que nos unen.</p>
                     </div>
                 </div>
             </div>
@@ -102,7 +102,7 @@
                     <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                     <div class="col-lg-6">
                         <h2 class="fw-bolder">Propósito Central</h2>
-                        <p class="lead fw-normal text-muted mb-0">Fomentar empresas socialmente sanas y productivas</p>
+                        <p class="lead fw-normal text-muted mb-0">Fomentar empresas socialmente sanas y comercialmente productivas.</p>
                     </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@
                     <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                     <div class="col-lg-6">
                         <h2 class="fw-bolder">Política SG-SST</h2>
-                        <p class="lead fw-normal text-muted mb-0">Se compromete a garantizar la protección integral de todos sus colaboradores independiente de su forma de contratación, clientes, proveedores, visitantes y en general terceros, mediante la identificación, evaluación y control de peligros a los que puedan estar expuestos, destinando los recursos humanos, financieros y físicos necesarios en la implementación de acciones de mejora continua, encaminadas específicamente a la prevención de accidentes y enfermedades de origen laboral; todas ellas enmarcadas en la legislación nacional vigente en seguridad y salud en el trabajo, la protección al medio ambiente y la calidad en la prestación de nuestros servicios.”</p>
+                        <p class="lead fw-normal text-muted mb-0">Se compromete a garantizar la protección integral de todos sus colaboradores independientemente de su forma de contratación, clientes, proveedores, visitantes y en general terceros, mediante la identificación, evaluación y control de peligros a los que puedan estar expuestos, destinando los recursos humanos, financieros y físicos necesarios en la implementación de acciones de mejora continua, encaminadas específicamente a la prevención de accidentes y enfermedades de origen laboral; todas ellas enmarcadas en la legislación nacional vigente en Seguridad y Salud en el Trabajo, la protección al medio ambiente y la calidad en la prestación de nuestros servicios.</p>
                     </div>
                 </div>
             </div>
@@ -122,11 +122,11 @@
         <section class="py-3 bg-light" id="scroll-target">
             <div class="container px-5 my-5">
                 <div class="row gx-5 align-items-center">
-                    <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                     <div class="col-lg-6">
                         <h2 class="fw-bolder">Política del Sistema de Gestión de Calidad</h2>
-                        <p class="lead fw-normal text-muted mb-0">somos conscientes de la responsabilidad que contraemos con nuestros clientes en el desarrollo de nuestras actividades, por tal razón proveemos productos y servicios para todos los requerimientos y necesidades de las partes interesadas desde nuestras, ofreciendo MARKETING relacional y estratégico, GESTIÓN DEL TALENTO HUMANO Y BPO, toda la asesoría y consultoría en SEGURIDAD Y SALUD EN EL TRABAJO, y el apoyo total en tecnología y SISTEMAS DE INFORMACIÓN. Para alcanzar la completa satisfacción de nuestros clientes mediante la mejora continua de nuestros procesos y el desarrollo integral de la organización, de esta forma le damos cumplimiento a los requisitos legales aplicables vigentes.
+                        <p class="lead fw-normal text-muted mb-0">Somos conscientes de la responsabilidad que contraemos con nuestros clientes en el desarrollo de nuestras actividades, por tal razón proveemos productos y servicios para todos los requerimientos y necesidades de las partes interesadas, ofreciendo MARKETING relacional y estratégico, GESTIÓN DEL TALENTO HUMANO, toda la asesoría y consultoría en SEGURIDAD Y SALUD EN EL TRABAJO y el apoyo total en tecnología y SISTEMAS DE INFORMACIÓN. Para alcanzar la completa satisfacción de nuestros clientes mediante la mejora continua de nuestros procesos y el desarrollo integral de la organización, de esta forma le damos cumplimiento a los requisitos legales aplicables vigentes.
                     </div>
+                    <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                 </div>
             </div>
         </section>

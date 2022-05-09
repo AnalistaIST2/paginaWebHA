@@ -28,7 +28,7 @@
         ?>
         <section style="position: fixed; z-index:100;">
             <ul class="nav nav-tabs">
-                <li class="nav-item dropdown" style="background:rgba(102,59,218,0.8); border-radius:8px;">
+                <li class="nav-item dropdown" style="background:rgba(102,59,218,0.8); border-radius:1px;">
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color: #fff;">Navegar</a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="#inicio">Inicio</a></li>
@@ -90,7 +90,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">Hace referencia a la capacidad que tenemos par conectarnos emocionalmente con las demás personas. De esta manera, tratamos de percibir y comprender las emociones del otro frente a las situaciones que experimenta.</p>
+                                    <p class="fs-6 mb-4">Hace referencia a la capacidad que tenemos para conectarnos emocionalmente con las demás personas. De esta manera, tratamos de percibir y comprender las emociones del otro frente a las situaciones que experimenta.</p>
                                 </ul>
                             </section>
                         </article>
@@ -116,7 +116,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">Nuestra atención al usuario queda registrada en la plataforma PGT-CRM o en la del cliente segun los acuerdos de nivel del servicio, para poder tener la trazabilidad de este CRM propio o del cliente y tener información presisa y a la mano.</p>
+                                    <p class="fs-6 mb-4">Nuestra atención al usuario queda registrada en la plataforma PGT-CRM o en la del cliente según los acuerdos de nivel del servicio, para poder tener la trazabilidad de este CRM propio o del cliente y tener información presisa y a la mano.</p>
                                 </ul>
                             </section>
                         </article>
@@ -147,7 +147,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">La atención que se brinda está basada en la honestidad, ética y responsabilidad por el otro</p>
+                                    <p class="fs-6 mb-4">La atención que se brinda está basada en la honestidad, ética y responsabilidad por el otro.</p>
                                 </ul>
                             </section>
                         </article>
@@ -173,7 +173,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">Es la habilidad de prestar atención a la persona que está trasmitiendo un mensaje. No se trata sólo de estar pendiente de dar una respuesta, pues requiere de contacto visual, mantener una postura corporal receptiva y usar la herramienta de parafraseo.</p>
+                                    <p class="fs-6 mb-4">Es la habilidad de prestar atención a la persona que está trasmitiendo un mensaje. No se trata solo de estar pendiente de dar una respuesta, pues requiere de contacto visual, mantener una postura corporal receptiva y usar la herramienta de parafraseo.</p>
                                 </ul>
                             </section>
                         </article>

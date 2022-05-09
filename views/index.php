@@ -25,7 +25,7 @@
 
 <body class="d-flex flex-column" style="text-align: justify;">
     <?php
-    // include 'PopUp/modal.php';
+    include 'PopUp/modal.php';
     ?>
     
     <main class="flex-shrink-0">
@@ -40,11 +40,7 @@
                     <div class="col-lg-6 col-xl-6 col-xxl-6">
                         <div class="my-4 text-center text-xl-start">
                             <h4 class="display-5 fw-bolder text-white mb-2">¡Nos Actualizamos!</h4>
-                            <p class="lead fw-normal text-white-50 mb-4">Hémos actualizado nuestra página web para mejorar la versatilidad y manejo en los dispositivos móviles y de escritorio. <br> Advising & Doing</p>
-                            <!-- <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                                <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
-                                <a class="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
-                            </div> -->
+                            <p class="lead fw-normal text-white-50 mb-4">Hémos actualizado nuestra página web para mejorar la versatilidad y manejo en los dispositivos móviles y de escritorio.</p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-xxl-6 d-none d-xl-block text-center" style="z-index: 0;">
@@ -86,7 +82,7 @@
                     <div class="col-lg-8 col-xl-6">
                         <div class="text-center">
                             <h2 class="fw-bolder">Servicios Destacados</h2>
-                            <p class="lead fw-normal text-muted mb-5">Conóce nuestros mejores servicios de la compañía</p>
+                            <p class="lead fw-normal text-muted mb-5">Conoce los mejores servicios de la compañía</p>
                         </div>
                     </div>
                 </div>
@@ -98,18 +94,18 @@
                             <center> <div class="badge bg-primary bg-gradient rounded-pill mb-2">Asesorate</div>
                                 <a class="text-decoration-none link-dark stretched-link" href="OHS.php#riesgoPsicosocial">
                                     
-                                        <h5 class="card-title mb-3">Gestión del Riesgo Psicosocial</h5>
+                                        <h5 class="card-title mb-3">Gestión del Riesgo Psicosocial.</h5>
                                     </center>
                                 </a>
-                                <p class="card-text mb-0">Contamos con personal especializado y competente para brindarte apoyo en asesorias por horas en Seguridad y Salud en el trabajo.</p>
+                                <p class="card-text mb-0">Contamos con personal especializado y competente para brindarte apoyo en asesorías por horas en Seguridad y Salud en el trabajo.</p>
                             </div>
                             <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                 <div class="d-flex align-items-end justify-content-between">
                                     <div class="d-flex align-items-center">
                                         <img class="rounded-circle me-3" src="../assets/img/Orlando.jpg" width="30%"  alt="..." />
                                         <div class="small">
-                                            <div class="fw-bold">Orlando Salcedo Reyes</div>
-                                            <div class="text-muted">Vicepresidente de la Compañía</div>
+                                            <div class="fw-bold">Orlando Salcedo Reyes.</div>
+                                            <div class="text-muted">Vicepresidente de la Compañía.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +119,7 @@
                             <center>   <div class="badge bg-danger bg-gradient rounded-pill mb-2">Hazte Notar</div>
                                 <a class="text-decoration-none link-dark stretched-link" href="H2O.php#inicio">
                                     
-                                        <h5 class="card-title mb-3">Agencia, publicidad y marketing relacional</h5>
+                                        <h5 class="card-title mb-3">Agencia, publicidad y marketing relacional.</h5>
                                     </center>
                                 </a>
                                 <p class="card-text mb-0">Una buena Campaña Publicitari­a es aquella que da resultados eficaces y efectivos. Resultados que se ven reflejados de diferentes formas.</p>
@@ -133,8 +129,8 @@
                                     <div class="d-flex align-items-center">
                                         <img class="rounded-circle me-3" src="../assets/img/Hayder.jpg" width="30%" alt="..." />
                                         <div class="small">
-                                            <div class="fw-bold">Hayder Angelo Hernandez</div>
-                                            <div class="text-muted">Presidente de la Compañía</div>
+                                            <div class="fw-bold">Hayder Angelo Hernandez.</div>
+                                            <div class="text-muted">Presidente de la Compañía.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -149,7 +145,7 @@
                             <center> <div class="badge bg-success bg-gradient rounded-pill mb-2">¡Adquierela para tu empresa!</div>
                                 <a class="text-decoration-none link-dark stretched-link" href="BPO.php#seleccionPersonal">
                                     
-                                        <h5 class="card-title mb-3">Procesos de Selección de Personal</h5>
+                                        <h5 class="card-title mb-3">Procesos de Selección de Personal.</h5>
                                     </center>
                                 </a>
                                 <p class="card-text mb-0">Será clave en el crecimiento y fortalecimiento de la organización, respaldando los objetivos a corto, mediano y largo plazo, son potencialmente idóneos.</p>
@@ -159,8 +155,8 @@
                                 <div class="d-flex align-items-center">
                                         <img class="rounded-circle me-3" src="../assets/img/Hayder.jpg" width="30%" alt="..." />
                                         <div class="small">
-                                            <div class="fw-bold">Michael Alexander Cusba</div>
-                                            <div class="text-muted">Gerente Nacional de Operaciones</div>
+                                            <div class="fw-bold">Michael Alexander Cusba.</div>
+                                            <div class="text-muted">Gerente Nacional de Operaciones.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -175,7 +171,7 @@
                             <center> <div class="badge bg-primary bg-gradient rounded-pill mb-2">Solicita la tuya</div>
                                 <a class="text-decoration-none link-dark stretched-link" href="OHS.php#sistemaSST">
                                     
-                                        <h5 class="card-title mb-3">Asesorias en Seguridad y Salud en el Trabajo</h5>
+                                        <h5 class="card-title mb-3">Asesorias en Seguridad y Salud en el Trabajo.</h5>
                                     </center>
                                 </a>
                                 <p class="card-text mb-0">Gestión de Seguridad y Salud en el trabajo es un proceso por etapas, basado en la mejora continua que incluye la política, la organización, la planificación, la aplicación, la evaluación, la auditoria y las acciones de mejora.</p>
@@ -185,8 +181,8 @@
                                     <div class="d-flex align-items-center">
                                         <img class="rounded-circle me-3" src="../assets/img/Julian.jpg" width="30%" alt="..." />
                                         <div class="small">
-                                            <div class="fw-bold">Jose Julián Mejía</div>
-                                            <div class="text-muted">Gerente Nacional de Gestión Humana y BPO</div>
+                                            <div class="fw-bold">Jose Julián Mejía.</div>
+                                            <div class="text-muted">Gerente Nacional de Gestión Humana y BPO.</div>
                                         </div>
                                     </div>
                                 </div>
@@ -212,9 +208,9 @@
                                         <img src="../assets/img/OHS.png" width="130%">
                                     </a>
                                 </div>
-                                <h2 class="h5">Ocupational Heald And Safety</h2>
+                                <h2 class="h5">Ocupational Health And Safety</h2>
                                 <p class="mb-0" style="text-align: justify;">
-                                    En nuestra lí­nea de negocio OHS, contamos con personal idóneo y especializado en seguridad y salud en el trabajo para garantizar a su empresa un funcionamiento seguro y un ambiente laboral amable.</p>
+                                    En nuestra lí­nea de negocio OHS, contamos con personal idóneo y especializado en seguridad y salud en el trabajo para garantizar a su empresa un funcionamiento seguro y un ambiente laboral saludable.</p>
                             </div>
                             <div class="col mb-4 h-100 text-center">
                                 <div class="feature bg-light bg-gradient text-white rounded-3 mb-3">
@@ -224,7 +220,7 @@
                                 </div>
                                 <h2 class="h5">Business Process Outsourcing</h2>
                                 <p class="mb-0" style="text-align: justify;">
-                                    Siendo el talento humano uno de los recursos más importantes de su compaña, en nuestra lí­nea de servicio BPO, le brindamos una solución efectiva en selección y administración del personal, que se ajusta a sus necesidades operativas y se basa en herramientas de última tecnologí­a con resultados altamente confiables y efectivos.</p>
+                                    Siendo el talento humano uno de los recursos más importantes de su compañía, en nuestra lí­nea de servicio BPO, le brindamos una solución efectiva en selección y administración del personal, que se ajusta a sus necesidades operativas y se basa en herramientas de última tecnologí­a con resultados altamente confiables y efectivos.</p>
                             </div>
                             <div class="col mb-5 mb-md-0 h-100 text-center">
                                 <div class="feature bg-light bg-gradient text-white rounded-3 mb-3">
@@ -244,7 +240,7 @@
                                 </div>
                                 <h2 class="h5">Information System Technology</h2>
                                 <p class="mb-0" style="text-align: justify;">
-                                    Con IST, las herramientas tecnológicas para su empresa, se convierten en un aliado estratégico que integra de manera exitosa sus procesos, generando resultados medibles y cuantificables para la optimización de su gestión.</p>
+                                    Con IST, las herramientas tecnológicas para su empresa se convierten en un aliado estratégico que integra de manera exitosa sus procesos, generando resultados medibles y cuantificables para la optimización de sus procesos.</p>
                             </div>
                             <div class="col-md-3">
 
@@ -255,9 +251,9 @@
                                         <img src="../assets/img/SAT.png" width="135%">
                                     </a>
                                 </div>
-                                <h2 class="h5">Call Center Service</h2>
+                                <h2 class="h5">Servicio de Asistencia Transparente</h2>
                                 <p class="mb-0" style="text-align: justify;">
-                                    Facilitar a los Usuarios de las empresas clientes orientación, consejeria y asistecia profesional brindada por un personal amable, capacitado e idoneo con estandarización en la forma de interactuar con los usuarios para lograr una completa satisfacción a la atención brindada.
+                                    Con nuestra línea SAT, buscamos facilitar a los Usuarios de las empresas clientes orientación, consejeria y asistecia profesional brindada por un personal amable, capacitado e idoneo con estandarización en la forma de interactuar con los usuarios para lograr una completa satisfacción a la atención brindada.
                                 </p>
                             </div>
                             <div class="col-md-3">
@@ -294,7 +290,7 @@
                             <div class="col-md-10 col-sm-12 d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start">
                                 <div class="mb-4 mb-xl-0">
 
-                                    <div class="text-white-50">Descúbre como llegar a nuestra Oficina Principal.</div>
+                                    <div class="text-white-50">Descubre como llegar a nuestra Oficina Principal.</div>
                                 </div>
                                 <div class="col-md-8 ms-xl-5 col-sm-12">
                                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d994.0535826486247!2d-74.04731049536609!3d4.7327950235832095!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9a497f2c7277%3A0x8d9716bc17347153!2sH%26A%20Consulting%20Ltda!5e0!3m2!1ses-419!2sco!4v1647955912513!5m2!1ses-419!2sco" width="100%" height="100%" style="border:0;" allowfullscreen="100%" loading="lazy"></iframe>
