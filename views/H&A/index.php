@@ -247,7 +247,7 @@
                                 </div>
                                 <h2 class="h5">Servicio de Asistencia Transparente</h2>
                                 <p class="mb-0" style="text-align: justify;">
-                                    Con nuestra línea SAT, buscamos facilitar a los Usuarios de las empresas clientes orientación, consejeria y asistecia profesional brindada por un personal amable, capacitado e idoneo con estandarización en la forma de interactuar con los usuarios para lograr una completa satisfacción a la atención brindada.
+                                    Con nuestra línea SAT, buscamos facilitar a los usuarios de las empresas clientes orientación, consejeria y asistecia profesional brindada por un personal amable, capacitado e idoneo con estandarización en la forma de interactuar con los usuarios para lograr una completa satisfacción a la atención brindada.
                                 </p>
                             </div>
                             <div class="col-md-3">
