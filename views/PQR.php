@@ -61,27 +61,27 @@
                                     <br>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="nombre" name="nombre" type="text" placeholder="Nombres y apellidos" required/>
+                                    <input class="form-control" id="nombre" name="nombre" type="text" placeholder="Nombres y apellidos" required />
                                     <label for="nombre">Nombres y apellidos</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="empresa" name="empresa" type="text" placeholder="Empresa" required/>
+                                    <input class="form-control" id="empresa" name="empresa" type="text" placeholder="Empresa" required />
                                     <label for="empresa">Empresa</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="email" name="email" type="email" placeholder="nombre@example.com" required/>
+                                    <input class="form-control" id="email" name="email" type="email" placeholder="nombre@example.com" required />
                                     <label for="email">Correo Electrónico</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="numero" name="numero" type="tel" placeholder="Número de contacto" required/>
+                                    <input class="form-control" id="numero" name="numero" type="tel" placeholder="Número de contacto" required />
                                     <label for="numero">Número de contacto</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="direccion" name="direccion" type="text" placeholder="Dirección" required/>
+                                    <input class="form-control" id="direccion" name="direccion" type="text" placeholder="Dirección" required />
                                     <label for="direccion">Dirección</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="cargo" name="cargo" type="text" placeholder="Cargo" required/>
+                                    <input class="form-control" id="cargo" name="cargo" type="text" placeholder="Cargo" required />
                                     <label for="cargo">Cargo</label>
                                 </div>
                                 <div>
@@ -98,15 +98,15 @@
                                     <br>
                                 </div>
                                 <div class="form-floating mb-3" id="divOtro" hidden>
-                                    <input class="form-control" id="otro" name="otro" type="text" placeholder="Especifique" required/>
+                                    <input class="form-control" id="otro" name="otro" type="text" placeholder="Especifique" required />
                                     <label for="otro">Especifique</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="observaciones" name="observaciones" type="text" placeholder="Observaciones" required/>
+                                    <input class="form-control" id="observaciones" name="observaciones" type="text" placeholder="Observaciones" required />
                                     <label for="observaciones">Observaciones</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="informacion" name="informacion" type="text" placeholder="Información PQR" required/>
+                                    <input class="form-control" id="informacion" name="informacion" type="text" placeholder="Información PQR" required />
                                     <label for="informacion">Información PQR</label>
                                 </div>
 
@@ -132,9 +132,9 @@
         let inputOtro = document.getElementById("divOtro");
 
         recepcion.addEventListener("change", (event) => {
-            if(recepcion.value == "Otro"){
+            if (recepcion.value == "Otro") {
                 inputOtro.removeAttribute("hidden");
-            } else{
+            } else {
                 inputOtro.setAttribute("hidden", true);
             }
         });

@@ -78,9 +78,9 @@
 
         <!-- Blog preview section-->
         <section class="py-3">
-            <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded"  id="riesgoPsicosocial">
+            <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="riesgoPsicosocial">
                 <div class="row gx-5">
-                   
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -203,7 +203,7 @@
             </div>
             <div class="container px-5 my-4 shadow-lg p-3 mb-5 bg-body rounded" id="acosoLaboral">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -258,7 +258,7 @@
             </div>
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="seguridaddelComportamiento">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -320,7 +320,7 @@
             </div>
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="sve">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -343,7 +343,7 @@
 
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/ohs/Sistema_epidemiológica.png" width="110%" style="margin-top:6%"/>
+                        <img src="../assets/img/verticales/ohs/Sistema_epidemiológica.png" width="110%" style="margin-top:6%" />
                     </div>
                 </div>
             </div>
@@ -377,7 +377,7 @@
             </div>
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="capacitacionEntrenamiento">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>

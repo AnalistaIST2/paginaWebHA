@@ -18,7 +18,7 @@
 </head>
 
 <body class="d-flex flex-column h-100" style="text-align: justify;">
-    <?php 
+    <?php
     include 'redes.php'
     ?>
     <main class="flex-shrink-0">
@@ -58,7 +58,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-6 col-xl-7">
-                            <img src="../assets/img/verticales/ist/identificando_la_vertical.png" class="bg-featured-blog"></div>
+                                <img src="../assets/img/verticales/ist/identificando_la_vertical.png" class="bg-featured-blog">
+                            </div>
                             <div style="position: fixed; z-index: 100;">
                             </div>
 
@@ -73,7 +74,7 @@
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="desarrollodeSoftware">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/ist/Desarrollo_Software.png" width="110%" style="margin-top: 10%;"/>
+                        <img src="../assets/img/verticales/ist/Desarrollo_Software.png" width="110%" style="margin-top: 10%;" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -96,7 +97,7 @@
                                         <li class="fs-6 mb-4">Creación Estructural:
                                             <p>- Desarrolladores capaces de crear nuevas tecnologías para su Organización.</p>
                                         </li>
-                                        
+
                                 </ul>
                             </section>
                         </article>
@@ -129,14 +130,14 @@
 
                     </div>
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/ist/Legalización_Software.png" width="110%" style="margin-bottom: 10%;"/>
+                        <img src="../assets/img/verticales/ist/Legalización_Software.png" width="110%" style="margin-bottom: 10%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="paginasWeb">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/ist/Diseño_páginas.png" width="110%"/>
+                        <img src="../assets/img/verticales/ist/Diseño_páginas.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -154,7 +155,7 @@
                                 <ul>
                                     <p class="fs-6 mb-4">Diseñamos páginas web de acuerdo a la personalidad de su empresa, sus necesidades y su imagen corporativa, explotando al máximo la capacidades que ofrece la tecnología en el mundo contemporáneo del internet, para sus beneficios y el nuestro propio.
                                     <p class="fs-6 mb-4">H&A CONSULTING LTDA., propone un equilibrio entre diseño y funcionalidad, elaborando sitios agradables, funcionales, fáciles y rápidos de navegar bajo lenguaje de estructura HTML5, lenguaje de diseño CSS3 y lenguajes de programación como: PHP y JavaScript, usando gestores de bases de datos como: MYSQL; implementando los diseños adaptativos a cada dispositivo móvil.
-                                    
+
                                 </ul>
                             </section>
                         </article>
@@ -165,7 +166,7 @@
             </div>
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="mailing">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -186,17 +187,17 @@
                         </article>
                     </div>
                     <div class="col-lg-4">
-                    <img src="../assets/img/verticales/ist/Mailing.png" width="110%" style="margin-top: 5%;"/>
+                        <img src="../assets/img/verticales/ist/Mailing.png" width="110%" style="margin-top: 5%;" />
                     </div>
                 </div>
             </div>
             <?php
             include 'footer.php';
             ?>
-    <!-- Bootstrap core JS-->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Core theme JS-->
-    <script src="../assets/js/scripts.js"></script>
+            <!-- Bootstrap core JS-->
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+            <!-- Core theme JS-->
+            <script src="../assets/js/scripts.js"></script>
 </body>
 
 </html>

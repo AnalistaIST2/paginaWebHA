@@ -18,7 +18,7 @@
 </head>
 
 <body class="d-flex flex-column h-100" style="text-align: justify;">
-    <?php 
+    <?php
     include 'redes.php'
     ?>
     <main class="flex-shrink-0">
@@ -35,7 +35,7 @@
                         <li><a class="dropdown-item" href="#empatia">Empatía</a></li>
                         <li><a class="dropdown-item" href="#registroPlataforma">Registro en la Plataforma CRM</a></li>
                         <li><a class="dropdown-item" href="#transparencia">Transparencia</a></li>
-                        <li><a class="dropdown-item" href="#escucha">Escucha Empática</a></li>                 
+                        <li><a class="dropdown-item" href="#escucha">Escucha Empática</a></li>
                     </ul>
                 </li>
             </ul>
@@ -58,14 +58,15 @@
                                 </div>
                             </div>
                             <div class="col-lg-6 col-xl-7">
-                                <img class="bg-featured-blog" src="../assets/img/verticales/sat/principal.jpg"></div>
+                                <img class="bg-featured-blog" src="../assets/img/verticales/sat/principal.jpg">
                             </div>
-                            <div style="position: fixed; z-index: 100;">
-                            </div>
-
                         </div>
+                        <div style="position: fixed; z-index: 100;">
+                        </div>
+
                     </div>
                 </div>
+            </div>
             </div>
         </section>
 
@@ -74,7 +75,7 @@
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="empatia">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="https://dummyimage.com/300x250/343a40/6c757d" width="110%"/>
+                        <img src="https://dummyimage.com/300x250/343a40/6c757d" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -101,7 +102,7 @@
             </div>
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="registroPlataforma">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -131,7 +132,7 @@
             <div class="container px-5 my-4 shadow rounded-3 overflow-hidden" id="transparencia">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="https://dummyimage.com/300x250/343a40/6c757d" width="110%"/>
+                        <img src="https://dummyimage.com/300x250/343a40/6c757d" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -158,7 +159,7 @@
             </div>
             <div class="container px-5 my-4 shadow rounded-3 overflow-hidden" id="escucha">
                 <div class="row gx-5">
-                    
+
                     <div class="col-lg-8">
                         <!-- Post content-->
                         <article>
@@ -179,17 +180,17 @@
                         </article>
                     </div>
                     <div class="col-lg-4">
-                        <img src="https://dummyimage.com/300x250/343a40/6c757d" width="110%"/>
+                        <img src="https://dummyimage.com/300x250/343a40/6c757d" width="110%" />
                     </div>
                 </div>
             </div>
             <?php
             include 'footer.php';
             ?>
-    <!-- Bootstrap core JS-->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Core theme JS-->
-    <script src="../assets/js/scripts.js"></script>
+            <!-- Bootstrap core JS-->
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+            <!-- Core theme JS-->
+            <script src="../assets/js/scripts.js"></script>
 </body>
 
 </html>

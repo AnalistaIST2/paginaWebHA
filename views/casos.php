@@ -28,9 +28,9 @@
     </div>
     <main class="flex-shrink-0">
         <!-- Navigation-->
-       <?php 
-       include 'navbar.php';
-       ?>
+        <?php
+        include 'navbar.php';
+        ?>
         <!-- Page Content-->
         <section class="py-1">
             <div class="container px-5 my-5">
@@ -38,7 +38,9 @@
                     <div class="col-lg-10">
                         <div class="text-center mb-5">
                             <h1 class="fw-bolder">Casos de Éxito</h1>
-                            <p class="lead fw-normal text-muted mb-0" >Agregamos valor a su empresa. <hr><p style="text-align: justify;"> El capital humano es en esencia lo más importante para nosotros. En ellos nos enfocamos. Todos nuestros servicios van dirigidos hacia el bienestar de sus colaboradores. Así que presentamos algunos casos en los que H&A CONSULTING LTDA., ha logrado objetivos propuestos en las campañ­as que adquieren nuestros servicios.</p>
+                            <p class="lead fw-normal text-muted mb-0">Agregamos valor a su empresa.
+                                <hr>
+                            <p style="text-align: justify;"> El capital humano es en esencia lo más importante para nosotros. En ellos nos enfocamos. Todos nuestros servicios van dirigidos hacia el bienestar de sus colaboradores. Así que presentamos algunos casos en los que H&A CONSULTING LTDA., ha logrado objetivos propuestos en las campañ­as que adquieren nuestros servicios.</p>
                             </p>
                         </div>
                     </div>
@@ -52,7 +54,7 @@
         </section>
     </main>
     <!-- Footer-->
-    <?php 
+    <?php
     include 'footer.php';
     ?>
     <!-- Bootstrap core JS-->

@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 
@@ -49,33 +48,33 @@
     ?>
     <br>
     <div class="containerLogin">
-        <div class="wrapperLogin">
-          <div class="titleLogin" style="color:#005EA8;"><span>Iniciar sesión en PGT</span></div>
-          <form class="formLogin" action="../plataformas/MRPS/Controladores/controllerLogin.php" method="post">
-            <div class="rowLogin">
-              <i class="fas fa-user"></i>
-              <input type="text" aria-label="Usuario" id="user" name="user" required placeholder="Usuario">
-            </div>
-            <div class="rowLogin">
-              <i class="fas fa-lock"></i>
-              <input type="password" aria-label="Contraseña" id="password" name="password" required placeholder="Contraseña">
-            </div>
-            <div class="rowLogin boton">
-              <input type="submit" value="Iniciar sesión">
-            </div>
-            <div class="registerLink">
-              <p style="font-size: 18px;">¿No tienes una cuenta? </p><a href="registroMRPS.php">Solicitar acceso</a>
-            </div>
-          </form>
-        </div>
+      <div class="wrapperLogin">
+        <div class="titleLogin" style="color:#005EA8;"><span>Iniciar sesión en PGT</span></div>
+        <form class="formLogin" action="../plataformas/MRPS/Controladores/controllerLogin.php" method="post">
+          <div class="rowLogin">
+            <i class="fas fa-user"></i>
+            <input type="text" aria-label="Usuario" id="user" name="user" required placeholder="Usuario">
+          </div>
+          <div class="rowLogin">
+            <i class="fas fa-lock"></i>
+            <input type="password" aria-label="Contraseña" id="password" name="password" required placeholder="Contraseña">
+          </div>
+          <div class="rowLogin boton">
+            <input type="submit" value="Iniciar sesión">
+          </div>
+          <div class="registerLink">
+            <p style="font-size: 18px;">¿No tienes una cuenta? </p><a href="registroMRPS.php">Solicitar acceso</a>
+          </div>
+        </form>
       </div>
     </div>
-  </div>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   </main>
   <!-- Footer-->
-  <?php 
+  <?php
   include 'footer.php';
   ?>
   <!-- Bootstrap core JS-->
