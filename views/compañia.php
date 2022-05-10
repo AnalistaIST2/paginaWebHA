@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8" />
@@ -27,7 +27,7 @@
                 <li class="nav-item dropdown" style="background:rgba(0,0,0,0.85); border-radius:1px;">
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color: #fff;">Externos</a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" style="background:rgba(229,53,23,0.8); color:#fff" href="#inicio">PQR</a></li>
+                        <li><a class="dropdown-item" style="background:rgba(229,53,23,0.8); color:#fff" href="PQR.php">PQR</a></li>
                         <li><a class="dropdown-item" style="background:rgba(223,81,0,0.6); color:#fff" href="https://haconsultingeu.com/plataformas/plataforma_transaccional/cuentasCobro/radicado.php">Radicados</a></li>
                         <li><a class="dropdown-item" style="background:rgba(0,129,199,0.6); color:#fff" href="https://haconsultingeu.com/plataformas/plataforma_transaccional/cuentasCobro/radicadosUsuarios.php">Consultar Radicados</a></li>
 

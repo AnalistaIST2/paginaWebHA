@@ -7,15 +7,11 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>H&A Consulting LTDA</title>
-    <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-    <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="assets/css/styles.css" rel="stylesheet" />
     <link rel="stylesheet" href="../assets/css/font.css">
     <link rel="stylesheet" href="../assets/css/estiloredes.css">
 
     <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
-    <!-- Core theme CSS (includes Bootstrap)-->
     <link href="../assets/css/styles.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="PopUp/css/estilos.css">
@@ -25,9 +21,9 @@
     <?php
     include 'PopUp/modal.php';
     ?>
-    
+
     <main class="flex-shrink-0">
-    <?php
+        <?php
         include 'redes.php';
         include 'navbar.php';
         ?>
@@ -88,18 +84,19 @@
                         <div class="card h-100 shadow border-3">
                             <img class="card-img-top" src="../assets/img/inicio/RIESGO_PSICOSOCIAL.png" width="50%" alt="..." />
                             <div class="card-body p-4">
-                            <center> <div class="badge bg-primary bg-gradient rounded-pill mb-2">Asesorate</div>
-                                <a class="text-decoration-none link-dark stretched-link" href="OHS.php#riesgoPsicosocial">
-                                    
+                                <center>
+                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">Asesorate</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="OHS.php#riesgoPsicosocial">
+
                                         <h5 class="card-title mb-3">Gestión del Riesgo Psicosocial.</h5>
-                                    </center>
+                                </center>
                                 </a>
                                 <p class="card-text mb-0">Contamos con personal especializado y competente para brindarte apoyo en asesorías por horas en Seguridad y Salud en el trabajo.</p>
                             </div>
                             <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                 <div class="d-flex align-items-end justify-content-between">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle me-3" src="../assets/img/Orlando.jpg" width="30%"  alt="..." />
+                                        <img class="rounded-circle me-3" src="../assets/img/Orlando.jpg" width="30%" alt="..." />
                                         <div class="small">
                                             <div class="fw-bold">Orlando Salcedo Reyes.</div>
                                             <div class="text-muted">Vicepresidente de la Compañía.</div>
@@ -113,11 +110,12 @@
                         <div class="card h-100 shadow border-3">
                             <img class="card-img-top" src="../assets/img/inicio/IST_SERVICIOS H2O.png" width="50%" alt="..." />
                             <div class="card-body p-4">
-                            <center>   <div class="badge bg-danger bg-gradient rounded-pill mb-2">Hazte Notar</div>
-                                <a class="text-decoration-none link-dark stretched-link" href="H2O.php#inicio">
-                                    
+                                <center>
+                                    <div class="badge bg-danger bg-gradient rounded-pill mb-2">Hazte Notar</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="H2O.php#inicio">
+
                                         <h5 class="card-title mb-3">Agencia, publicidad y marketing relacional.</h5>
-                                    </center>
+                                </center>
                                 </a>
                                 <p class="card-text mb-0">Una buena Campaña Publicitari­a es aquella que da resultados eficaces y efectivos. Resultados que se ven reflejados de diferentes formas.</p>
                             </div>
@@ -136,19 +134,20 @@
                     </div>
                     <div class="col-lg-6 mb-6">
                         <div class="card h-100 shadow border-3">
-                            <img class="card-img-top" src="../assets/img/inicio/SELECCION DE PERSONAL.jpg" alt="..." width="50%"/>
+                            <img class="card-img-top" src="../assets/img/inicio/SELECCION DE PERSONAL.jpg" alt="..." width="50%" />
                             <div class="card-body p-4">
-                            <center> <div class="badge bg-success bg-gradient rounded-pill mb-2">¡Adquierela para tu empresa!</div>
-                                <a class="text-decoration-none link-dark stretched-link" href="BPO.php#seleccionPersonal">
-                                    
+                                <center>
+                                    <div class="badge bg-success bg-gradient rounded-pill mb-2">¡Adquierela para tu empresa!</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="BPO.php#seleccionPersonal">
+
                                         <h5 class="card-title mb-3">Procesos de Selección de Personal.</h5>
-                                    </center>
+                                </center>
                                 </a>
                                 <p class="card-text mb-0">Será clave en el crecimiento y fortalecimiento de la organización, respaldando los objetivos a corto, mediano y largo plazo, son potencialmente idóneos.</p>
                             </div>
                             <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                 <div class="d-flex align-items-end justify-content-between">
-                                <div class="d-flex align-items-center">
+                                    <div class="d-flex align-items-center">
                                         <img class="rounded-circle me-3" src="../assets/img/Hayder.jpg" width="30%" alt="..." />
                                         <div class="small">
                                             <div class="fw-bold">Michael Alexander Cusba.</div>
@@ -163,11 +162,12 @@
                         <div class="card h-100 shadow border-3">
                             <img class="card-img-top" src="../assets/img/inicio/IST_SG-SST.png" width="50%" />
                             <div class="card-body p-4">
-                            <center> <div class="badge bg-primary bg-gradient rounded-pill mb-2">Solicita la tuya</div>
-                                <a class="text-decoration-none link-dark stretched-link" href="OHS.php#sistemaSST">
-                                    
+                                <center>
+                                    <div class="badge bg-primary bg-gradient rounded-pill mb-2">Solicita la tuya</div>
+                                    <a class="text-decoration-none link-dark stretched-link" href="OHS.php#sistemaSST">
+
                                         <h5 class="card-title mb-3">Asesorias en Seguridad y Salud en el Trabajo.</h5>
-                                    </center>
+                                </center>
                                 </a>
                                 <p class="card-text mb-0">Gestión de Seguridad y Salud en el trabajo es un proceso por etapas, basado en la mejora continua que incluye la política, la organización, la planificación, la aplicación, la evaluación, la auditoria y las acciones de mejora.</p>
                             </div>

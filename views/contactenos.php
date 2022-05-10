@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8" />
@@ -18,30 +18,33 @@
 </head>
 
 <body class="d-flex flex-column" style="text-align: justify;">
-    <?php 
+    <?php
     include 'redes.php'
     ?>
     <main class="flex-shrink-0">
         <!-- Navigation-->
-        <?php 
+        <?php
         include 'navbar.php';
         ?>
         <!-- Page content-->
         <section class="py-5">
             <div class="container px-5">
-            <center><h1 class="fw-bolder fs-2 mb-4">CONTÁCTANOS</h1><hr></center>
+                <center>
+                    <h1 class="fw-bolder fs-2 mb-4">CONTÁCTANOS</h1>
+                    <hr>
+                </center>
                 <div class="bg-light rounded-3 py-5 px-4 px-md-5 mb-5">
-                    <div class="text-center mb-5">
+                    <div class="text-center">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-envelope"></i></div>
-                        <p class="lead fw-normal text-muted mb-0">Con gusto te atenderémos en el menor tiempo posible</p>
+                        <p class="lead fw-normal text-muted mb-0">Con gusto te atenderemos en el menor tiempo posible.</p>
                     </div>
                     <div class="row gx-5 justify-content-center">
-                        <div class="col-lg-8 col-xl-6">
+                        <div class="col-lg-12 col-xl-12">
                             <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                                 <!-- Name input-->
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
-                                    <label for="name">Nombre Completo</label>
+                                    <input class="form-control" id="nombre" type="text" placeholder="Nombre completo" data-sb-validations="required" />
+                                    <label for="nombre">Nombre Completo</label>
                                     <div class="invalid-feedback" data-sb-feedback="name:required">Inserte su nombre completo por favor</div>
                                 </div>
                                 <div class="form-floating mb-3">
@@ -72,35 +75,21 @@
                                     <div class="invalid-feedback" data-sb-feedback="name:required">¿Empresa o independiente?</div>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
+                                    <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." style="resize: none;" data-sb-validations="required"></textarea>
                                     <label for="message">Mensaje</label>
                                     <div class="invalid-feedback" data-sb-feedback="message:required">Dínos por cual servicio te sientes interesado</div>
                                 </div>
-                                <div class="d-none" id="submitSuccessMessage">
-                                    <div class="text-center mb-3">
-                                        <div class="fw-bolder">Form submission successful!</div>
-                                        To activate this form, sign up at
-                                        <br />
-                                        <a href="https://startbootstrap.com/solution/contact-forms">https://startbootstrap.com/solution/contact-forms</a>
-                                    </div>
-                                </div>
-                                <div class="d-none" id="submitErrorMessage">
-                                    <div class="text-center text-danger mb-3">Error sending message!</div>
-                                </div>
-                                <!-- Submit Button-->
+
                                 <div class="d-grid"><button class="btn btn-primary btn-lg disabled" id="submitButton" type="submit">Submit</button></div>
                             </form>
                         </div>
                     </div>
                 </div>
-                <!-- Contact cards-->
-
-            </div>
             </div>
         </section>
     </main>
     <!-- Footer-->
-    <?php 
+    <?php
     include 'footer.php';
     ?>
     <!-- Bootstrap core JS-->
@@ -108,4 +97,5 @@
     <!-- Core theme JS-->
     <script src="../assets/js/scripts.js"></script>
 </body>
+
 </html>
