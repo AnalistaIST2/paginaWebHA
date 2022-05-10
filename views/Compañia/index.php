@@ -4,30 +4,31 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
-    <link rel="stylesheet" href="../assets/css/font.css">
-    <link rel="stylesheet" href="../assets/css/estiloredes.css">
     <title>H&A Compañía</title>
-    <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-    <link href="../assets/css/styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../../assets/css/font.css">
+    <link rel="stylesheet" href="../../assets/css/estiloredes.css">
+
+    <link rel="icon" type="image/x-icon" href="../../assets/favicon.ico" />
+    <link href="../../assets/css/styles.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../PopUp/css/estilos.css">
 </head>
 
 <body class="d-flex flex-column" style="text-align: justify;">
     <?php
-    include 'redes.php';
+    include '../Layout/redes.php';
     ?>
     <main class="flex-shrink-0">
         <?php
-        include 'navbar.php';
+        include '../Layout/navbar.php';
         ?>
         <section style="position: fixed; z-index:100;">
             <ul class="nav nav-tabs">
                 <li class="nav-item dropdown" style="background:rgba(0,0,0,0.85); border-radius:1px;">
                     <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false" style="color: #fff;">Externos</a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" style="background:rgba(229,53,23,0.8); color:#fff" href="PQR.php">PQR</a></li>
+                        <li><a class="dropdown-item" style="background:rgba(229,53,23,0.8); color:#fff" href="../PQR/">PQR</a></li>
                         <li><a class="dropdown-item" style="background:rgba(223,81,0,0.6); color:#fff" href="https://haconsultingeu.com/plataformas/plataforma_transaccional/cuentasCobro/radicado.php">Radicados</a></li>
                         <li><a class="dropdown-item" style="background:rgba(0,129,199,0.6); color:#fff" href="https://haconsultingeu.com/plataformas/plataforma_transaccional/cuentasCobro/radicadosUsuarios.php">Consultar Radicados</a></li>
 
@@ -134,9 +135,15 @@
 
     </main>
     <!-- Footer-->
-    <?php include 'footer.php'; ?>
+    <?php include '../Layout/footer.php'; ?>
 </body>
+<!-- Bootstrap core JS-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="../assets/js/scripts.js"></script>
+<!-- Core theme JS-->
+<script src="../../assets/js/scripts.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js" crossorigin="anonymous"></script>
+<script src="../PopUp/js/jquery-3.5.1.min.js"></script>
+<script src="../PopUp/js/main.js"></script>
+<script src="https://kit.fontawesome.com/cd33816f91.js" crossorigin="anonymous"></script>
 
 </html>

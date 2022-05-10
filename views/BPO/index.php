@@ -4,27 +4,25 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
-    <link rel="stylesheet" href="../assets/css/font.css">
-    <link rel="stylesheet" href="../assets/css/estiloredes.css">
     <title>H&A BPO</title>
-    <!-- Favicon-->
-    <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
-    <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-    <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="../assets/css/styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../../assets/css/font.css">
+    <link rel="stylesheet" href="../../assets/css/estiloredes.css">
+
+    <link rel="icon" type="image/x-icon" href="../../assets/favicon.ico" />
+    <link href="../../assets/css/styles.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../PopUp/css/estilos.css">
 </head>
 
 <body class="d-flex flex-column h-100" style="text-align: justify;">
     <?php
-    include 'redes.php';
+    include '../Layout/redes.php';
     ?>
     <main class="flex-shrink-0">
         <!-- Navigation-->
         <?php
-        include 'navbar.php';
+        include '../Layout/navbar.php';
         ?>
         <section style="position: fixed; z-index:100;">
             <ul class="nav nav-tabs">
@@ -58,13 +56,13 @@
                         <div class="row gx-0">
                             <div class="col-lg-6 col-xl-5 py-lg-5">
                                 <div class="p-4 p-md-5">
-                                    <center><img src="../assets/img/BPO.png" width="20%">
+                                    <center><img src="../../assets/img/BPO.png" width="20%">
                                         <div class="h1 fw-bolder">Business Process Outsourcing</div>
                                     </center>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-xl-7">
-                                <img src="../assets/img/verticales/bpo/IMAGEN_PRINCIPAL.png" class="bg-featured-blog">
+                                <img src="../../assets/img/verticales/bpo/IMAGEN_PRINCIPAL.png" class="bg-featured-blog">
                             </div>
                         </div>
 
@@ -81,7 +79,7 @@
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="adminpersonalNomina">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/ADMINISTRACION_PERSONAL_Y_NOMINA.png" width="110%" />
+                        <img src="../../assets/img/verticales/bpo/ADMINISTRACION_PERSONAL_Y_NOMINA.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -133,14 +131,14 @@
 
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/SELECCION_PERSONAL.png" width="110%" style="margin-top: 12%;" />
+                        <img src="../../assets/img/verticales/bpo/SELECCION_PERSONAL.png" width="110%" style="margin-top: 12%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-4 shadow-lg p-3 mb-5 bg-body rounded" id="reclutamientoPreliminar">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/RECLUTAMIENTO_PRELIMINAR.png" width="110%" />
+                        <img src="../../assets/img/verticales/bpo/RECLUTAMIENTO_PRELIMINAR.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -188,14 +186,14 @@
                         </article>
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/ENTREVISTA_DE_PRESELECCION.png" width="110%" />
+                        <img src="../../assets/img/verticales/bpo/ENTREVISTA_DE_PRESELECCION.png" width="110%" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-4 shadow-lg p-3 mb-5 bg-body rounded" id="pruebasPsicologicas">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/APLICACION_DE_PRUEBAS_PSICOLOGICAS.png" width="110%" />
+                        <img src="../../assets/img/verticales/bpo/APLICACION_DE_PRUEBAS_PSICOLOGICAS.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -245,14 +243,14 @@
                         </article>
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/ENTREVISTA_DE_SELECCION.png" width="110%" style="margin-top: 12%;" />
+                        <img src="../../assets/img/verticales/bpo/ENTREVISTA_DE_SELECCION.png" width="110%" style="margin-top: 12%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="centre">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/ASSESSMENT_CENTRE.png" width="110%" />
+                        <img src="../../assets/img/verticales/bpo/ASSESSMENT_CENTRE.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -302,14 +300,14 @@
 
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/REFERENCIACION.png" width="110%" />
+                        <img src="../../assets/img/verticales/bpo/REFERENCIACION.png" width="110%" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded" id="visitaDomiciliaria">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/VISITA_DOMICILIARIA.png" width="110%" style="margin-top: 5%;" />
+                        <img src="../../assets/img/verticales/bpo/VISITA_DOMICILIARIA.png" width="110%" style="margin-top: 5%;" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -364,7 +362,7 @@
 
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/bpo/PROPIEDAD_HORIZONTAL.png" width="110%" />
+                        <img src="../../assets/img/verticales/bpo/PROPIEDAD_HORIZONTAL.png" width="110%" />
                     </div>
                 </div>
             </div>
@@ -372,12 +370,16 @@
     </main>
     <!-- Footer-->
     <?php
-    include 'footer.php'
+    include '../Layout/footer.php';
     ?>
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->
-    <script src="../assets/js/scripts.js"></script>
+    <script src="../../assets/js/scripts.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js" crossorigin="anonymous"></script>
+    <script src="../PopUp/js/jquery-3.5.1.min.js"></script>
+    <script src="../PopUp/js/main.js"></script>
+    <script src="https://kit.fontawesome.com/cd33816f91.js" crossorigin="anonymous"></script>
 </body>
 
 </html>

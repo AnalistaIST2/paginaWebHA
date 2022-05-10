@@ -7,21 +7,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>H&A CONSULTING - PQRS</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-    <link rel="stylesheet" href="../assets/css/font.css">
-    <link rel="stylesheet" href="../assets/css/estiloredes.css">
-    <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
-    <link href="../assets/css/styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../../assets/css/font.css">
+    <link rel="stylesheet" href="../../assets/css/estiloredes.css">
+
+    <link rel="icon" type="image/x-icon" href="../../assets/favicon.ico" />
+    <link href="../../assets/css/styles.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="PopUp/css/estilos.css">
+    <link rel="stylesheet" href="../PopUp/css/estilos.css">
 </head>
 
 <body>
     <main class="flex-shrink-0">
         <?php
-        include 'redes.php';
-        include 'navbar.php';
+        include '../Layout/redes.php';
+        include '../Layout/navbar.php';
         ?>
-
         <section class="py-5">
             <div class="container px-5">
                 <center>
@@ -117,15 +117,12 @@
                         </div>
                     </div>
                 </div>
-                <!-- Contact cards-->
-
-            </div>
             </div>
         </section>
-        <?php
-        include 'footer.php';
-        ?>
     </main>
+    <?php
+    include '../Layout/footer.php';
+    ?>
 
     <script>
         let recepcion = document.getElementById("recepcion");
@@ -143,10 +140,10 @@
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->
-    <script src="../assets/js/scripts.js"></script>
+    <script src="../../assets/js/scripts.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js" crossorigin="anonymous"></script>
-    <script src="PopUp/js/jquery-3.5.1.min.js"></script>
-    <script src="PopUp/js/main.js"></script>
+    <script src="../PopUp/js/jquery-3.5.1.min.js"></script>
+    <script src="../PopUp/js/main.js"></script>
     <script src="https://kit.fontawesome.com/cd33816f91.js" crossorigin="anonymous"></script>
 </body>
 

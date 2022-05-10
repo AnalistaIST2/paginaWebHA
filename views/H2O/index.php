@@ -4,25 +4,23 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
-    <link rel="stylesheet" href="../assets/css/font.css">
-    <link rel="stylesheet" href="../assets/css/estiloredes.css">
     <title>H&A H2O</title>
-    <!-- Favicon-->
-    <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
-    <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-    <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="../assets/css/styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../../assets/css/font.css">
+    <link rel="stylesheet" href="../../assets/css/estiloredes.css">
+
+    <link rel="icon" type="image/x-icon" href="../../assets/favicon.ico" />
+    <link href="../../assets/css/styles.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../PopUp/css/estilos.css">
 </head>
 
 <body class="d-flex flex-column h-100" style="text-align: justify;">
     <main class="flex-shrink-0">
         <!-- Navigation-->
         <?php
-        include 'redes.php';
-        include 'navbar.php';
+        include '../Layout/redes.php';
+        include '../Layout/navbar.php';
         ?>
         <section style="position: fixed; z-index:100;">
             <ul class="nav nav-tabs">
@@ -57,7 +55,7 @@
                         <div class="text-center my-7">
                             <h2 class="fw-bolder mb-3">Catálogo de Productos</h2>
                             <?php
-                            include 'catalogoH2o.php';
+                            include './catalogoH2o.php';
                             ?>
                         </div>
                     </div>
@@ -68,12 +66,12 @@
                         <div class="row gx-0">
                             <div class="col-lg-6 col-xl-5 py-lg-5">
                                 <div class="p-4 p-md-5">
-                                    <center> <img src="../assets/img/H2O.png" width="20%">
+                                    <center> <img src="../../assets/img/H2O.png" width="20%">
                                         <div class="h1 fw-bolder">Strategic Marketing Agency</div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-xl-7">
-                                <img src="../assets/img/verticales/h2o/Que identifique la vertical.png" class="bg-featured-blog">
+                                <img src="../../assets/img/verticales/h2o/Que identifique la vertical.png" class="bg-featured-blog">
                             </div>
                         </div>
                         <div style="position: fixed; z-index: 100;">
@@ -90,7 +88,7 @@
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="impresionLitografica">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Litográfica.png" width="110%" />
+                        <img src="../../assets/img/verticales/h2o/Litográfica.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -140,14 +138,14 @@
 
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Impresión_Digital.png" width="110%" style="margin-bottom: 10%;" />
+                        <img src="../../assets/img/verticales/h2o/Impresión_Digital.png" width="110%" style="margin-bottom: 10%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden " id="diseñoGrafico">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Diseño_Gráfico.png" width="110%" />
+                        <img src="../../assets/img/verticales/h2o/Diseño_Gráfico.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -196,14 +194,14 @@
                         </article>
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Campañas_Publicitarias.png" width="110%" style="margin-bottom: 5%;" />
+                        <img src="../../assets/img/verticales/h2o/Campañas_Publicitarias.png" width="110%" style="margin-bottom: 5%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="campañasDigitales">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Campañas_Digitales.png" width="110%" style="margin-bottom: 10%;" />
+                        <img src="../../assets/img/verticales/h2o/Campañas_Digitales.png" width="110%" style="margin-bottom: 10%;" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -252,14 +250,14 @@
                         </article>
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Campañas_BTL.png" width="110%" style="margin-top: 5%;" />
+                        <img src="../../assets/img/verticales/h2o/Campañas_BTL.png" width="110%" style="margin-top: 5%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="mercadeoEstrategico">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Mercadeo_Estratégico.png" width="110%" />
+                        <img src="../../assets/img/verticales/h2o/Mercadeo_Estratégico.png" width="110%" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -315,14 +313,14 @@
 
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Desarrollo _P.O.P.png" width="110%" style="margin-top: 5%;" />
+                        <img src="../../assets/img/verticales/h2o/Desarrollo _P.O.P.png" width="110%" style="margin-top: 5%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="señalizacionIndustrial">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Señalización_industrial.png" width="110%" style="margin-bottom: 10%;" />
+                        <img src="../../assets/img/verticales/h2o/Señalización_industrial.png" width="110%" style="margin-bottom: 10%;" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -373,14 +371,14 @@
 
                     </div>
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/videos.jpg" width="110%" height="270px" style="margin-bottom: 10%;" />
+                        <img src="../../assets/img/verticales/h2o/videos.jpg" width="110%" height="270px" style="margin-bottom: 10%;" />
                     </div>
                 </div>
             </div>
             <div class="container px-5 my-5 shadow rounded-3 overflow-hidden" id="aplicacionesInteractivas">
                 <div class="row gx-5">
                     <div class="col-lg-4">
-                        <img src="../assets/img/verticales/h2o/Aplicaciones_Interactivas.png" width="110%" style="margin-bottom: 10%;" />
+                        <img src="../../assets/img/verticales/h2o/Aplicaciones_Interactivas.png" width="110%" style="margin-bottom: 10%;" />
                     </div>
                     <div class="col-lg-8">
                         <!-- Post content-->
@@ -410,11 +408,16 @@
     </main>
     <!-- Footer-->
     <?php
-    include 'footer.php';    ?>
+    include '../Layout/footer.php';
+    ?>
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->
-    <script src="../assets/js/scripts.js"></script>
+    <script src="../../assets/js/scripts.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js" crossorigin="anonymous"></script>
+    <script src="../PopUp/js/jquery-3.5.1.min.js"></script>
+    <script src="../PopUp/js/main.js"></script>
+    <script src="https://kit.fontawesome.com/cd33816f91.js" crossorigin="anonymous"></script>
 </body>
 
 </html>

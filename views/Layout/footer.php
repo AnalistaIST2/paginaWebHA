@@ -6,7 +6,7 @@
             </div>
             <div class="col-md-4 col-sm-12 p-2">
                 <center>
-                    <img src="../assets/img/certificado.jpg" style="width:250px; height:100px;" class="p-2" />
+                    <img src="../../assets/img/certificado.jpg" style="width:250px; height:100px;" class="p-2" />
                     <br>
                 </center>
             </div>
