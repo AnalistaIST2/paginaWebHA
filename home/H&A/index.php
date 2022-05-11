@@ -147,7 +147,7 @@
                             <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                 <div class="d-flex align-items-end justify-content-between">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle me-3" src="../../assets/img/Hayder.jpg" width="30%" alt="..." />
+                                        <img class="rounded-circle me-3" src="../../assets/img/Alexader.jpg" width="30%" alt="..." />
                                         <div class="small">
                                             <div class="fw-bold">Michael Alexander Cusba.</div>
                                             <div class="text-muted">Gerente Nacional de Operaciones.</div>
