@@ -356,7 +356,7 @@
                             <!-- Post header-->
                             <header class="mb-4">
                                 <!-- Post title-->
-                                <h2 class="fw-bolder mb-1">Atención Psicológica</h2>
+                                <h2 class="fw-bolder mb-1">Servicio de Asistencia al Trabajador</h2>
                                 <!-- Post meta content-->
                                 <div class="text-muted fst-italic mb-2">Indispensable para tu empresa</div>
                                 <!-- Post categories-->
@@ -364,7 +364,7 @@
                             <!-- Post content-->
                             <section class="mb-5">
                                 <ul>
-                                    <p class="fs-6 mb-4">Nuestro servicio de atención psicológica se basa en un programa de Cuidado Integral en donde el acercamiento entre el psicólogo y el consultante en un espacio fuera del ámbito laboral, facilita la cercanía y evidencia el interés del terapeuta por la humanidad del trabajador, sus problemas y necesidades.</p>
+                                    <p class="fs-6 mb-4">Brindamos a las empresas servicio de asistencia psicológica a los trabajadores que requieran asesoria, consultoria o consejeria en temas problematicos relacionados con los factores de riesgo psicosocial.</p>
                                 </ul>
                             </section>
                         </article>
