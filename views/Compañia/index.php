@@ -57,7 +57,7 @@
         <section class="py-3 bg-light" id="scroll-target">
             <div class="container px-5 my-5 shadow-lg p-3 mb-5 bg-body rounded">
                 <div class="row gx-5 align-items-center">
-                    <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
+                    <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="../assets/img/inicio/IST_MISION.png" /></div>
                     <div class="col-lg-6">
                         <h2 class="fw-bolder">Misión</h2>
                         <p class="lead fw-normal text-muted mb-0">Lograr la satisfacción integral de nuestros clientes con los productos o servicios de la empresa.</p>
