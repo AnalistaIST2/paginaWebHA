@@ -34,10 +34,10 @@
                     </div>
                     <div class="row gx-5 justify-content-center">
                         <div class="col-lg-12 col-xl-12">
-                            <form id="contactForm">
+                            <form action="./procesoPQR.php" method="POST" enctype="multipart/form-data">
                                 <div>
                                     <label class="form-label" for="area">Área de la empresa</label>
-                                    <select class="form-control" name="area" id="area" required>
+                                    <select class="form-control" name="area" id="area">
                                         <option value="" disabled selected>Seleccione el área</option>
                                         <option value="Administración">Administración</option>
                                         <option value="Alta gerencia">Alta gerencia</option>
@@ -51,7 +51,7 @@
                                 </div>
                                 <div>
                                     <label class="form-label" for="tipoSolicitud">Tipo de solicitud</label>
-                                    <select class="form-control" name="tipoSolicitud" id="tipoSolicitud" required>
+                                    <select class="form-control" name="tipoSolicitud" id="tipoSolicitud">
                                         <option value="" disabled selected>Seleccione el tipo de solicitud</option>
                                         <option value="Petición">Petición</option>
                                         <option value="Queja">Queja</option>
@@ -61,32 +61,32 @@
                                     <br>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="nombre" name="nombre" type="text" placeholder="Nombres y apellidos" required />
+                                    <input class="form-control" id="nombre" name="nombre" type="text" />
                                     <label for="nombre">Nombres y apellidos</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="empresa" name="empresa" type="text" placeholder="Empresa" required />
+                                    <input class="form-control" id="empresa" name="empresa" type="text" />
                                     <label for="empresa">Empresa</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="email" name="email" type="email" placeholder="nombre@example.com" required />
+                                    <input class="form-control" id="email" name="email" type="email" />
                                     <label for="email">Correo Electrónico</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="numero" name="numero" type="tel" placeholder="Número de contacto" required />
+                                    <input class="form-control" id="numero" name="numero" type="tel" />
                                     <label for="numero">Número de contacto</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="direccion" name="direccion" type="text" placeholder="Dirección" required />
+                                    <input class="form-control" id="direccion" name="direccion" type="text" />
                                     <label for="direccion">Dirección</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="cargo" name="cargo" type="text" placeholder="Cargo" required />
+                                    <input class="form-control" id="cargo" name="cargo" type="text" />
                                     <label for="cargo">Cargo</label>
                                 </div>
                                 <div>
                                     <label class="form-label" for="recepcion">Recepción de la PQR</label>
-                                    <select class="form-control" name="recepcion" id="recepcion" required>
+                                    <select class="form-control" name="recepcion" id="recepcion">
                                         <option value="" disabled selected>Seleccione la recepción</option>
                                         <option value="Página Web">Página web</option>
                                         <option value="Escrito">Escrito</option>
@@ -98,18 +98,22 @@
                                     <br>
                                 </div>
                                 <div class="form-floating mb-3" id="divOtro" hidden>
-                                    <input class="form-control" id="otro" name="otro" type="text" placeholder="Especifique" required />
+                                    <input class="form-control" id="otro" name="otro" type="text" />
                                     <label for="otro">Especifique</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="observaciones" name="observaciones" type="text" placeholder="Observaciones" required />
+                                    <input class="form-control" id="observaciones" name="observaciones" type="text" />
                                     <label for="observaciones">Observaciones</label>
                                 </div>
                                 <div class="form-floating mb-3">
-                                    <input class="form-control" id="informacion" name="informacion" type="text" placeholder="Información PQR" required />
+                                    <input class="form-control" id="informacion" name="informacion" type="text" />
                                     <label for="informacion">Información PQR</label>
                                 </div>
-
+                                <div>
+                                    <label class="form-label" for="file">Adjunte documentos (opcional)</label>
+                                    <input class="form-control" type="file" name="file" id="file">
+                                    <br>
+                                </div>
                                 <div class="d-grid">
                                     <button class="btn btn-primary btn-lg" id="submitButton" type="submit">Enviar</button>
                                 </div>
@@ -136,8 +140,9 @@
             }
         });
     </script>
-
-    <!-- Bootstrap core JS-->
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+        <!-- Bootstrap core JS
+        -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->
     <script src="../../assets/js/scripts.js"></script>

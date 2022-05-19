@@ -147,7 +147,7 @@
                             <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                 <div class="d-flex align-items-end justify-content-between">
                                     <div class="d-flex align-items-center">
-                                        <img class="rounded-circle me-3" src="../../assets/img/Hayder.jpg" width="30%" alt="..." />
+                                        <img class="rounded-circle me-3" src="../../assets/img/Alexader.jpg" width="30%" alt="..." />
                                         <div class="small">
                                             <div class="fw-bold">Michael Alexander Cusba.</div>
                                             <div class="text-muted">Gerente Nacional de Operaciones.</div>
@@ -247,7 +247,7 @@
                                 </div>
                                 <h2 class="h5">Servicio de Asistencia Transparente</h2>
                                 <p class="mb-0" style="text-align: justify;">
-                                    Con nuestra línea SAT, buscamos facilitar a los Usuarios de las empresas clientes orientación, consejeria y asistecia profesional brindada por un personal amable, capacitado e idoneo con estandarización en la forma de interactuar con los usuarios para lograr una completa satisfacción a la atención brindada.
+                                    Con nuestra línea SAT, buscamos facilitar a los usuarios de las empresas clientes orientación, consejeria y asistecia profesional brindada por un personal amable, capacitado e idoneo con estandarización en la forma de interactuar con los usuarios para lograr una completa satisfacción a la atención brindada.
                                 </p>
                             </div>
                             <div class="col-md-3">
